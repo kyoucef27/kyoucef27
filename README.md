@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Youcef
+#  Hi, I'm Youcef
 
 Welcome to my GitHub profile.
 
@@ -6,11 +6,11 @@ I'm a software engineering student and developer interested in **systems program
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🐧 Daily Linux user (Arch-based workflow)
-- 🌐 Interested in **client–server architectures**, networking, and OS concepts
-- 🧠 I value **rigorous reasoning**, clean design, and technical correctness
+- Daily Linux user (Arch-based workflow)
+- Interested in **client–server architectures**, networking, and OS concepts
+- I value **rigorous reasoning**, clean design, and technical correctness
 
 
 ---
@@ -43,14 +43,13 @@ I'm a software engineering student and developer interested in **systems program
 
 ---
 
-## 📂 Repositories
 
 This GitHub contains:
 
-- 📌 Academic projects (networking, operating systems, software engineering)
-- 🧪 Experiments and learning projects
-- 🧱 Architecture diagrams and documentation (Markdown)
-- 📄 Final reports and deliverables when applicable
+- Academic projects (networking, operating systems, software engineering)
+- Experiments and learning projects
+- Architecture diagrams and documentation (Markdown)
+- Final reports and deliverables when applicable
 
 Each repository includes:
 - A clear **README**
