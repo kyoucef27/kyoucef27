@@ -60,7 +60,7 @@ Each repository includes:
 
 ---
 
-## 🎓 Final Year Project (PFE)
+## Final Year Project (PFE)
 
 **Topic**: Design and validation of a local digital platform for exchanging small freelance services
 
