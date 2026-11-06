@@ -6,12 +6,11 @@ I'm a NetWorking and Embdded Systems (Masters 1) student and developer intereste
 
 ---
 
-##  About Me
+## About Me
 
-- Interested in **client–server architectures**, networking, and OS concepts
+- Interested in **client–server architectures**, networking, OS concepts, and **cybersecurity**
+- Currently learning and exploring **cybersecurity**
 - I value **rigorous reasoning**, clean design, and technical correctness
-
-
 ---
 
 ## 🛠️ Tech Stack
