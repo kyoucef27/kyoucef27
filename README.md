@@ -1,78 +1,97 @@
-#  Hi, I'm Youcef
+<div align="center">
 
-Welcome to my GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Youcef&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Networking%20%26%20Embedded%20Systems%20%C2%B7%20Backend%20%C2%B7%20AI-Integrated%20Web&descSize=18&descAlignY=60" alt="Youcef banner" width="100%" />
 
-I'm a NetWorking and Embdded Systems (Masters 1) student and developer interested in **systems programming, Linux, networking, and web technologies**. I enjoy building things from low-level code up to full-stack applications, and I like understanding *how things really work* under the hood.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Master+1+Student+%26+Developer;I+build+AI-integrated+websites;From+low-level+code+to+full-stack+apps;Learning+cybersecurity+every+day" alt="Typing animation" />
+</a>
 
----
+<br/>
 
-## About Me
+![Role](https://img.shields.io/badge/Master_1-Networking_%26_Embedded_Systems-1f6feb?style=for-the-badge&logo=linux&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Systems_%7C_Backend_%7C_AI-8957e5?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Cybersecurity-da3633?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-- Interested in **client–server architectures**, networking, OS concepts, and **cybersecurity**
-- Currently learning and exploring **cybersecurity**
-- I value **rigorous reasoning**, clean design, and technical correctness
----
-
-## 🛠️ Tech Stack
-
-## Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-
-### Systems & Tools
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Web & Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=swagger&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+</div>
 
 ---
 
+## <img src="https://cdn.simpleicons.org/github/58A6FF" height="24" align="absmiddle" /> About Me
 
-This GitHub contains:
+I'm a **Networking & Embedded Systems (Master 1)** student and developer. I like building from the bottom up, from low-level code to full-stack applications, and understanding *how things really work* under the hood. I also design and build **AI-integrated websites**.
 
-- Academic projects (networking, operating systems, software engineering)
-- Experiments and learning projects
-- Architecture diagrams and documentation (Markdown)
-- Final reports and deliverables when applicable
+| <img src="https://cdn.simpleicons.org/linux/58A6FF" height="28" /><br/>Systems & Networking | <img src="https://cdn.simpleicons.org/nodedotjs/58A6FF" height="28" /><br/>Web & Backend | <img src="https://cdn.simpleicons.org/huggingface/58A6FF" height="28" /><br/>AI Integration | <img src="https://cdn.simpleicons.org/kalilinux/58A6FF" height="28" /><br/>Cybersecurity |
+|:---:|:---:|:---:|:---:|
+| Linux, OS concepts, client–server architectures | REST APIs, Node.js, databases, secure auth | Websites powered by AI APIs and smart features | Currently learning and exploring |
 
-Each repository includes:
-- A clear **README**
-- Setup or usage instructions
-- Explanations of design choices when relevant
+> *Rigorous reasoning, clean design and technical correctness.*
 
 ---
 
-## Final Year Project (PFE)
+## <img src="https://cdn.simpleicons.org/stackblitz/58A6FF" height="24" align="absmiddle" /> Tech Stack
 
-**Topic**: Design and validation of a local digital platform for exchanging small freelance services
+**Languages**
 
-**Key aspects**:
-- Local marketplace (clients & providers)
-- Trust and reputation mechanisms
-- Secure authentication (OAuth-based)
-- AI-assisted listings and communication
-- Focus on usability and real-world constraints
+<img src="https://skillicons.dev/icons?i=c,java,js,ts,php,postgres&perline=6" alt="Languages" />
+
+**Systems & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,archlinux,bash,git,github,docker&perline=6" alt="Systems and tools" />
+
+**Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,mongodb,postgres&perline=6" alt="Web and backend" />
 
 ---
 
+## <img src="https://cdn.simpleicons.org/huggingface/58A6FF" height="24" align="absmiddle" /> AI-Integrated Websites
 
+I build websites that bring AI into real products: AI-assisted content, smart listings and conversational features, all backed by a secure and well-structured backend.
 
+---
 
-⭐ Feel free to explore my repositories and reach out if you want to discuss tech, systems, or project ideas.
+## <img src="https://cdn.simpleicons.org/googlescholar/58A6FF" height="24" align="absmiddle" /> Final Year Project (PFE)
 
+### Local Platform for Small Freelance Services
+
+*Design and validation of a local digital platform for exchanging small freelance services.*
+
+| | |
+|---|---|
+| <img src="https://cdn.simpleicons.org/etsy/58A6FF" height="20" align="absmiddle" /> **Marketplace** | Local platform for clients and providers |
+| <img src="https://cdn.simpleicons.org/trustpilot/58A6FF" height="20" align="absmiddle" /> **Trust** | Reputation mechanisms |
+| <img src="https://cdn.simpleicons.org/auth0/58A6FF" height="20" align="absmiddle" /> **Security** | OAuth-based authentication |
+| <img src="https://cdn.simpleicons.org/huggingface/58A6FF" height="20" align="absmiddle" /> **AI** | AI-assisted listings and communication |
+| <img src="https://cdn.simpleicons.org/figma/58A6FF" height="20" align="absmiddle" /> **Focus** | Usability and real-world constraints |
+
+---
+
+## <img src="https://cdn.simpleicons.org/git/58A6FF" height="24" align="absmiddle" /> What You'll Find Here
+
+- <img src="https://cdn.simpleicons.org/googlescholar/58A6FF" height="16" align="absmiddle" /> Academic projects: networking, operating systems, software engineering
+- <img src="https://cdn.simpleicons.org/jupyter/58A6FF" height="16" align="absmiddle" /> Experiments and learning projects
+- <img src="https://cdn.simpleicons.org/mermaid/58A6FF" height="16" align="absmiddle" /> Architecture diagrams and documentation
+- <img src="https://cdn.simpleicons.org/latex/58A6FF" height="16" align="absmiddle" /> Final reports and deliverables
+
+Every repository includes a clear **README**, setup and usage instructions, and explanations of design choices when relevant.
+
+---
+
+## <img src="https://cdn.simpleicons.org/githubactions/58A6FF" height="24" align="absmiddle" /> GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Feel free to explore my repositories and reach out to discuss tech, systems or project ideas.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
