@@ -2,13 +2,12 @@
 
 Welcome to my GitHub profile.
 
-I'm a software engineering student and developer interested in **systems programming, Linux, networking, and web technologies**. I enjoy building things from low-level code up to full-stack applications, and I like understanding *how things really work* under the hood.
+I'm a NetWorking and Embdded Systems (Masters 1) student and developer interested in **systems programming, Linux, networking, and web technologies**. I enjoy building things from low-level code up to full-stack applications, and I like understanding *how things really work* under the hood.
 
 ---
 
 ##  About Me
 
-- Daily Linux user (Arch-based workflow)
 - Interested in **client–server architectures**, networking, and OS concepts
 - I value **rigorous reasoning**, clean design, and technical correctness
 
